@@ -138,3 +138,14 @@ form button {
     absolute bottom-0 right-0 
     rounded-tl-md;
 }
+
+
+
+
+
+
+
+/* MOVIES style */
+.selected-navbar-link {
+  @apply text-blue-600 outline-2 border-blue-500 border-b-4;
+}
